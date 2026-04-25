@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+# Large models - optional, but keeping them out is often better
+# best_multimodal_model.keras
